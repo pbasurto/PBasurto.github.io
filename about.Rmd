@@ -1,0 +1,9 @@
+---
+title: "About"
+author: "Patricia Basurto"
+date: "9/17/2019"
+output: html_document
+---
+
+BSc Biotechnology engineering
+MSc Infection and Immunity 
