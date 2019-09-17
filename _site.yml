@@ -2,5 +2,5 @@ name: "my-website"
 navbar:
   title: "My Website"
   left:
-    - text:"Home"
+    - text: "Home"
       href: index.html
